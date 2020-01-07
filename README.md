@@ -1,2 +1,2 @@
-# Test
-test the flow of creating repository in github
+# Notes
+the contents that i am learning
